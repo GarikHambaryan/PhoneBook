@@ -1,0 +1,7 @@
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Garik\Visual Studio\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
